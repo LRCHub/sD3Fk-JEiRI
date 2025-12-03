@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "二つの朝",
+  "base_artist": "雪国",
+  "createdAt": "2025-12-03T23:20:06.921450Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二つの朝",
+      "artist": "雪国",
+      "has_synced": false,
+      "path": "select/pl_01_二つの朝_雪国.txt"
+    }
+  ]
+}
